@@ -1,5 +1,5 @@
 This is code allows you to play a game of hangman. You start out with 7 attempts at guessing letter for a randomly generated word within a list. The code will output The number of letters in the word,
-and it will prompt you to enter a letter of your choice. Then, the program will either 
+and it will prompt you to enter a letter of your choice. Then, the program will either:
 
 a) print the letter you entered, followed by "is the #st, #nd, #rd, #th letter in the word!" if it's in the random word.
 
